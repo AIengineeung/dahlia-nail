@@ -1,2 +1,2 @@
-# dahlia-nail
+# dahlia_nail
 nail homepage
